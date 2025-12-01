@@ -5,13 +5,6 @@ This system manages user login records, tracks session duration, and provides ad
 
 ---
 
-## 📁 Project File
-
-- **Fsprojectcyber.cpp** (source code)  
-  *(Uploaded from original file)*
-
----
-
 ## 🚀 Features
 
 ### 👨‍💼 Admin Panel
